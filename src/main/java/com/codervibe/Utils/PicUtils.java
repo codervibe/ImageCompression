@@ -31,7 +31,7 @@ public class PicUtils {
     private static final Double ZERO_FOUR = 0.4;
 
     /**
-     * 根据指定大小压缩图片   
+     * 根据指定大小压缩图片
      *
      * @param imageBytes  源图片字节数组
      * @param desFileSize 指定图片大小，单位kb
